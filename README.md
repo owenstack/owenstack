@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenstack&label=Profile%20views&color=0e75b6&style=flat" alt="owenstack" /> </p>
 
-- 🌱 I’m currently learning **Blockchain development, and automation.**
+- 🌱 I’m currently learning **Machine learning, systems programming and statistics**
 
-- 👨‍💻 All of my projects are available at [https://owenstack.github.io](https://owenstack.github.io)
+- 👨‍💻 All of my projects will be available at [https://owenstack.github.io](https://owenstack.github.io)
 
-- 📝 I regularly write articles on [https://owenstack.github.io/blog](https://owenstack.github.io/blog)
+- 📝 I occassionally write articles on [https://owenstack.github.io/blog](https://owenstack.github.io/blog)
 
-- 💬 Ask me about **NextJS, JavaScript, TypeScript, Bun**
+- 💬 Ask me about **Python, JavaScript, TypeScript, Bun**
 
-- 📫 How to reach me **jenukohaefobi@gmail.com**
+- 📫 How to reach me **owen@efobi.dev**
 
 - ⚡ Fun fact **I am multilingual with languages known being English, Yoruba, French, Igbo, arranged in order of fluency.I love creative expressions. A big fan of wildlife and monotone photography. I use photography as a creative distraction.**
 

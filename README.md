@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenstack&label=Profile%20views&color=0e75b6&style=flat" alt="owenstack" /> </p>
 
-- 🌱 I’m currently learning **Machine learning, systems programming and statistics**
+- 🌱 I’m currently learning **Machine learning, Rust programming and Statistics**
 
 - 👨‍💻 All of my projects will be available at [https://owenstack.github.io](https://owenstack.github.io)
 
